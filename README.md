@@ -11,7 +11,7 @@
 
 ## Demo
 
-#### https://hello-chat-abdelrazek.herokuapp.com
+#### https://social-kids.herokuapp.com
 
 ## Screenshots
 
@@ -41,9 +41,6 @@
 
 ### Voice call
 <img src="https://user-images.githubusercontent.com/78452508/168935890-5be8a609-d647-4c23-8bb1-42b16459d2e7.png"/>
-
-### Friend invitation
-<img src="https://user-images.githubusercontent.com/78452508/168935883-f4c5b0e7-b590-4bc0-928d-10bf587fdbff.png"/>
 
 ### Gmail recieved invitation
 <img src="https://user-images.githubusercontent.com/78452508/168935881-a65c7a0c-2f6b-4ba5-b831-351323d732a7.png"/>
