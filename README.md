@@ -11,7 +11,7 @@
 
 ## Demo
 
-#### https://social-kids.herokuapp.com
+#### https://kids-social.herokuapp.com/
 
 ## Screenshots
 
